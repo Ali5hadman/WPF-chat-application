@@ -1,0 +1,34 @@
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\bin\Debug\DM_3000_server.exe.config
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\bin\Debug\DM_3000_server.exe
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\bin\Debug\DM_3000_server.pdb
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\bin\Debug\SimpleTCP.dll
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\MainWindow.g.cs
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\App.g.cs
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server_MarkupCompile.cache
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server_MarkupCompile.lref
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\MainWindow.baml
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.g.resources
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.Properties.Resources.resources
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.csproj.CopyComplete
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.exe
+C:\Users\Ali\Desktop\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.pdb
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\bin\Debug\DM_3000_server.exe.config
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\bin\Debug\DM_3000_server.exe
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\bin\Debug\DM_3000_server.pdb
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\bin\Debug\SimpleTCP.dll
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\MainWindow.g.cs
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\App.g.cs
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server_MarkupCompile.cache
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server_MarkupCompile.lref
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\MainWindow.baml
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.g.resources
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.Properties.Resources.resources
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.csproj.CopyComplete
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.exe
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_server\DM_3000_server\obj\Debug\DM_3000_server.pdb

@@ -1,0 +1,42 @@
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\bin\Debug\DM_3000_client.exe.config
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\bin\Debug\DM_3000_client.exe
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\bin\Debug\DM_3000_client.pdb
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\bin\Debug\SimpleTCP.dll
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\log_in.g.cs
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\MainWindow.g.cs
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\ntuser.g.cs
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\App.g.cs
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client_MarkupCompile.cache
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client_MarkupCompile.lref
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\log_in.baml
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\MainWindow.baml
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\ntuser.baml
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.g.resources
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.Properties.Resources.resources
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.csproj.CopyComplete
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.exe
+C:\Users\Ali\Desktop\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.pdb
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\bin\Debug\DM_3000_client.exe.config
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\bin\Debug\DM_3000_client.exe
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\bin\Debug\DM_3000_client.pdb
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\bin\Debug\SimpleTCP.dll
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\log_in.g.cs
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\MainWindow.g.cs
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\ntuser.g.cs
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\App.g.cs
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client_MarkupCompile.cache
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client_MarkupCompile.lref
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\log_in.baml
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\MainWindow.baml
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\ntuser.baml
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.g.resources
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.Properties.Resources.resources
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.csproj.CopyComplete
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.exe
+C:\Users\Ali\Desktop\UNI STUFF\WPF stuff\DM_3000\DM_3000_client\DM_3000_client\obj\Debug\DM_3000_client.pdb

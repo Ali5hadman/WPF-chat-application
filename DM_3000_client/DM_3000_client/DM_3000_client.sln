@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM_3000_client", "DM_3000_client.csproj", "{7C666071-4207-46DE-B936-79D340FEE4F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM_3000_server", "..\..\DM_3000_server\DM_3000_server\DM_3000_server.csproj", "{7E5B077A-F0BA-4A59-A950-5162797CB88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C666071-4207-46DE-B936-79D340FEE4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C666071-4207-46DE-B936-79D340FEE4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C666071-4207-46DE-B936-79D340FEE4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C666071-4207-46DE-B936-79D340FEE4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5B077A-F0BA-4A59-A950-5162797CB88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5B077A-F0BA-4A59-A950-5162797CB88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5B077A-F0BA-4A59-A950-5162797CB88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5B077A-F0BA-4A59-A950-5162797CB88C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2737A738-F05C-4163-A3EA-A26908B29C71}
+	EndGlobalSection
+EndGlobal

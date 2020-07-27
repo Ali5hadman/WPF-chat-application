@@ -1,0 +1,23 @@
+﻿<Window x:Class="DM_3000_client.log_in"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DM_3000_client"
+        mc:Ignorable="d"
+        Title="log_in" Height="450" Width="800" Loaded="login_loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="55,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="52" Width="227" FontSize="36" FontWeight="Bold"><Run Foreground="#FFA39642" Text="USERNAME:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="55,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="52" Width="227" FontSize="36" FontWeight="Bold"><Run Foreground="#FFA39642" Text="PASSWORD:"/><Run Text=" "/></TextBlock>
+        <TextBox x:Name="usertxt" HorizontalAlignment="Left" Height="52" Margin="312,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" FontSize="24"/>
+        <PasswordBox x:Name="passtxt" HorizontalAlignment="Left" Margin="312,197,0,0" VerticalAlignment="Top" Height="54" Width="298" FontSize="24"/>
+        <Button x:Name="lego_btn" Content="LEGO -&gt;" HorizontalAlignment="Left" Margin="228,285,0,0" VerticalAlignment="Top" Width="293" Height="43" FontSize="24" Click="lego_btn_Click" Background="#FFD3C461" BorderBrush="#FF3F1010"/>
+        <Button x:Name="nt_user" Content=":O NOT A USER?!" HorizontalAlignment="Left" Margin="228,352,0,0" VerticalAlignment="Top" Width="293" Height="43" FontSize="24" Click="nt_user_Click" Background="#FFD3C461" />
+        <TextBlock HorizontalAlignment="Left" Margin="68,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="54" Width="659" FontSize="36" Text="WELCOME TO DIRECT MESSAGING 3000!" Foreground="#FFA39642"/>
+        <TextBlock HorizontalAlignment="Left" Margin="255,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="38" Width="266" FontSize="20" Foreground="Black" FontFamily="Segoe UI Semibold"><Run Text="---End to End "/><Run Text="Encrypted ;)---"/></TextBlock>
+
+    </Grid>
+</Window>
